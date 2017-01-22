@@ -13,7 +13,7 @@ VRCapture will help developers enable video recording/live streaming in a VR gam
 Please feel free to create an issue or contact us through dev@rockvr.cn if you have any suggest or feedback for this plugin.
 
 ## Unity SDK:
-We currently only release Unity SDK, Unreal is under development.
+We currently only release Unity SDK, Unreal version is under development.
 
 ### Download:
 * [VRCapture](https://www.assetstore.unity3d.com/en/#!/content/75654): include all component for capture and share your VR experience.
