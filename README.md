@@ -2,9 +2,9 @@
 Best VR Game Capture &amp; Share Experience
 
 ## Introduction:
-VR Capture will help developers enable video recording/live streaming in a VR game from any position and angle. Our mission is to help people capture and share their VR experiences easily.
+VR Capture will help developers enable video recording/live streaming in VR game from any position and angle. Our mission is to help people capture and share their VR experiences easily.
 
-## What can be done with VRCapture:
+## What you can achieve with VRCapture:
 * [Record from any position and angle](https://www.youtube.com/watch?v=0iMXyLf40Ds)
 * [Live streaming your VR experience](https://www.youtube.com/watch?v=Zido-Tnzhqs)
 * [360 rendering from our server](https://www.youtube.com/watch?v=zzmbQpkgpFc)
@@ -13,16 +13,24 @@ VR Capture will help developers enable video recording/live streaming in a VR ga
 Please feel free to create an issue or contact us through dev@rockvr.com if you have any suggest or feedback for this plugin.
 
 ## Unity SDK:
-We currently only release Unity SDK, Unreal version is under development.
+We currently released Unity SDK, Unreal version is under development.
 
 ### Download:
 * [VR Capture](https://www.assetstore.unity3d.com/en/#!/content/75654): Include all component for capture and share your VR experience.
-* VR Capture Pro: Coming soon...
+* [VR Capture Pro](https://www.assetstore.unity3d.com/#!/content/96007): High performance capture solution in VR game.
 * [Video Capture](https://www.assetstore.unity3d.com/en/#!/content/75653): Just include video & audio record component.
-* [Video Capture Pro](	https://www.assetstore.unity3d.com/#!/content/93396): Include Video Capture function and enable hardware encode functionality.
+* [Video Capture Pro](https://www.assetstore.unity3d.com/#!/content/93396): Include Video Capture function and enable gpu encoder feature.
+* VR Capture Enterprise: Please visit http://rockvr.com/vrcapture for more details, or contact us through dev@rockvr.com directly.
 
 ### Release Note:
+##### VRCapture for Unity v1.1.1:
+* Oculus rift interaction support.
+* Fix continue recording bug.
+
 ##### VRCapture for Unity v1.1.0:
+* GPU encoder.
+
+##### VRCapture for Unity v1.0.5:
 * Separate Video, Replay, Network module.
 
 ##### VRCapture for Unity v1.0.4:
@@ -46,5 +54,5 @@ We currently only release Unity SDK, Unreal version is under development.
 
 ##### VRCapture for Unity v1.0.0:
 * Initial version release.
-* VideoCapture functionality.
+* Video Capture functionality.
 * Basic SteamVR interaction.
