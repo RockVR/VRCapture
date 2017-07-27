@@ -1,4 +1,4 @@
-# VR Capture
+# VR Capture Release Note
 Best VR Game Capture &amp; Share Experience
 
 ## Introduction:
