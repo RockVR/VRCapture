@@ -23,8 +23,14 @@ We currently released Unity SDK, Unreal version is under development.
 * VR Capture Enterprise: Please visit http://rockvr.com/vrcapture for more details, or contact us through dev@rockvr.com directly.
 
 ### Release Note:
+##### VRCapture for Unity v1.1.2:
+* Add 360 stereo capture feature.
+* Fix GPU encoder audio bug.
+
 ##### VRCapture for Unity v1.1.1:
-* Oculus rift interaction support.
+* Add Oculus rift interaction support.
+* Add record UI.
+* Add 2D stereo capture feature.
 * Fix continue recording bug.
 
 ##### VRCapture for Unity v1.1.0:
