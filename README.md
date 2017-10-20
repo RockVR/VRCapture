@@ -20,6 +20,8 @@ We currently released Unity SDK, Unreal version is under development.
 * [VR Capture Pro](https://www.assetstore.unity3d.com/#!/content/96007): High performance capture solution in VR game.
 * [Video Capture](https://www.assetstore.unity3d.com/en/#!/content/75653): Just include video & audio record component.
 * [Video Capture Pro](https://www.assetstore.unity3d.com/#!/content/93396): Include Video Capture function and enable gpu encoder feature.
+* [Video Capture for Android]: Comming soon...
+* [Video Capture for iOS]: Comming soon...
 * VR Capture Enterprise: Please visit http://rockvr.com/vrcapture for more details, or contact us through dev@rockvr.com directly.
 
 ### Release Note:
